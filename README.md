@@ -2,9 +2,9 @@
 Smart Urban Water Supply System HKUST Website for Data collection.
 
 # Required equipment
-Raspberry Pi (With Raspbian os)
-MCC 118 DAQ Hat for Raspberry Pi
-GPS (with PPS) Module for Raspberry Pi
+ - Raspberry Pi (With Raspbian os)
+ - MCC 118 DAQ Hat for Raspberry Pi
+ - GPS (with PPS) Module for Raspberry Pi
 
 # Setup
 The system requires multiple raspberry pis connected to one server machine. 
