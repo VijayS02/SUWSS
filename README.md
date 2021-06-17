@@ -13,7 +13,9 @@ Please use Python3 and Pip to install required modules in order for program to r
 Run gui.py on server machine and client.py should auto execute on client raspberries.
 
 ## To be completed
- 
+ - Finish logging
+ - Touch up UI
+ - Comment RPI code 
  
 # Links
 https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/
