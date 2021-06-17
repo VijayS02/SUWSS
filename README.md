@@ -18,3 +18,4 @@ Run gui.py on server machine and client.py should auto execute on client raspber
 # Links
 https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/
 https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
+https://github.com/mccdaq/daqhats
