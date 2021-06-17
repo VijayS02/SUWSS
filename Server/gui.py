@@ -1,14 +1,20 @@
+"""
+GUI code and Main module for the server program
+
+Copyright © Vijay Sambamurthy 2021.
+Rights given to HKUST Civil Engineering Department.
+"""
 import tkinter as tk
 from tkinter import messagebox as mb
 import tkinter.scrolledtext as st
 
 from graph import create_graph
-from threading_gui import thread_worker
+from threading_gui import ThreadWorker
 import sys
 
 INPUTS = ["# Clients", "Sample Period (μs)", "Iterations", "Starting Offset (s)"]
 LIMITS = [(1, 10), (10, 10 ** 6), (1, 100), (2, 10)]
-WORKER = thread_worker()
+WORKER = ThreadWorker()
 ANI = None
 
 
